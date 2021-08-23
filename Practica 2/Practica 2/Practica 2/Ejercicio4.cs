@@ -31,11 +31,12 @@ namespace Practica_2
             {
                 string valor = listbArreglo.Items[i].ToString();
                 int numero = int.Parse(valor);
+                
                 if (numero < 0 && numero % 2 == 0)
                 {
                     if (numero > mayorneg)
                     {
-                        mayorneg = numero;
+                        mayorneg = numero;                        
                         txtbCalculo1.Text = mayorneg.ToString();
                     }
                 }
@@ -72,13 +73,11 @@ namespace Practica_2
                 int numero = int.Parse(valor);
                 if (numero > 0 && numero % 2 != 0)
                 {
-                    suma = suma + numero;
-
-                    cantidadimpares = cantidadimpares + 1;
-
+                    suma = suma + numero;                    
+                    cantidadimpares = cantidadimpares + 1;                    
                 }
             }
-            prom = suma / cantidadimpares;
+            prom = (suma / cantidadimpares);            
             txtCalculo3.Text = prom.ToString();
 
             //operacion 4

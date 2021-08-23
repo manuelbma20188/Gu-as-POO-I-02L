@@ -12,3 +12,17 @@ C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO
 C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Ejercicio2.resources
 C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Ejercicio3.resources
 C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Ejercicio4.resources
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.AssemblyReference.cache
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Ejercicio1.resources
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Ejercicio2.resources
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Ejercicio3.resources
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Ejercicio4.resources
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Form1.resources
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica_2.Properties.Resources.resources
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.GenerateResource.cache
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.CoreCompileInputs.cache
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+C:\Users\manu2\Desktop\guia 2\Guias-POO-I-02L\Practica 2\Practica 2\Practica 2\obj\Debug\Practica 2.pdb
