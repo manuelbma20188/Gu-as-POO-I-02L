@@ -72,7 +72,7 @@ namespace Practica_2
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Application.Exit(); //cierro aplicación
         }
     }
 }

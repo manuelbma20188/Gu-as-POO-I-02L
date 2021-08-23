@@ -29,6 +29,7 @@ namespace Practica_2
 
         private void Ejercicio2_Load(object sender, EventArgs e)
         {
+            MessageBox.Show("Bienvenido, para realizar los calculos, presiona ENTER sobre los textbox");
             //deshabilito los groupbox 
             group1.Enabled = false;
             group2.Enabled = false;
@@ -115,6 +116,7 @@ namespace Practica_2
                         else
                         {
                             MessageBox.Show("Ingresa un valor valido!");
+                            txtDato1Temp.Text = ""; //vacio al txt [error solventado]
                         }//fin if de conversion
 
                     }//fin de if de capturar enter
@@ -144,6 +146,7 @@ namespace Practica_2
                         else
                         {
                             MessageBox.Show("Ingresa un valor valido!");
+                            txtDato1Temp.Text = ""; //vacio al txt [error solventado]
                         }//fin if de conversion
                     }
                 }//fin de if de radiobutton 2 Temperatura
@@ -189,6 +192,7 @@ namespace Practica_2
                         else
                         {
                             MessageBox.Show("Ingresa un valor valido!");
+                            txtDato1Long.Text = ""; //vacio al txt [error solventado]
                         }//fin if de conversion
 
                     }//fin de if de capturar enter
@@ -218,6 +222,7 @@ namespace Practica_2
                         else
                         {
                             MessageBox.Show("Ingresa un valor valido!");
+                            txtDato1Long.Text = ""; //vacio al txt [error solventado]
                         }//fin if de conversion
 
                     }//fin de if de capturar enter
@@ -261,6 +266,7 @@ namespace Practica_2
                         else
                         {
                             MessageBox.Show("Ingresa un valor valido!");
+                            txtDato1Peso.Text = ""; //vacio al txt [error solventado]
                         }//fin if de conversion
 
                     }//fin de if de capturar enter
@@ -290,6 +296,7 @@ namespace Practica_2
                         else
                         {
                             MessageBox.Show("Ingresa un valor valido!");
+                            txtDato1Peso.Text = ""; //vacio al txt [error solventado]
                         }//fin if de conversion
 
                     }//fin de if de capturar enter
@@ -303,6 +310,11 @@ namespace Practica_2
             }//fin de if de verificación de txt 
 
             //------------------------FIN CONVERSION DE LONGITUDES--------------------------------
+        }
+
+        private void txtDato1Temp_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

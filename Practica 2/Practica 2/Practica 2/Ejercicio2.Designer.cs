@@ -150,6 +150,7 @@ namespace Practica_2
             this.txtDato1Temp.Name = "txtDato1Temp";
             this.txtDato1Temp.Size = new System.Drawing.Size(190, 27);
             this.txtDato1Temp.TabIndex = 23;
+            this.txtDato1Temp.TextChanged += new System.EventHandler(this.txtDato1Temp_TextChanged);
             this.txtDato1Temp.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtDato1Temp_KeyPress);
             // 
             // label3
