@@ -1,0 +1,22 @@
+D:\Practica-3\bin\Debug\Practica-3.exe.config
+D:\Practica-3\bin\Debug\Practica-3.exe
+D:\Practica-3\bin\Debug\Practica-3.pdb
+D:\Practica-3\obj\Debug\Practica-3.csprojAssemblyReference.cache
+D:\Practica-3\obj\Debug\Practica_3.Form1.resources
+D:\Practica-3\obj\Debug\Practica_3.Properties.Resources.resources
+D:\Practica-3\obj\Debug\Practica-3.csproj.GenerateResource.cache
+D:\Practica-3\obj\Debug\Practica-3.csproj.CoreCompileInputs.cache
+D:\Practica-3\obj\Debug\Practica-3.exe
+D:\Practica-3\obj\Debug\Practica-3.pdb
+D:\Practica-3\obj\Debug\Practica_3.Ejercicio1.resources
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\bin\Debug\Practica-3.exe.config
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\bin\Debug\Practica-3.exe
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\bin\Debug\Practica-3.pdb
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica-3.csproj.AssemblyReference.cache
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica_3.Ejercicio1.resources
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica_3.Form1.resources
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica_3.Properties.Resources.resources
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica-3.csproj.GenerateResource.cache
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica-3.csproj.CoreCompileInputs.cache
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica-3.exe
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica-3.pdb
