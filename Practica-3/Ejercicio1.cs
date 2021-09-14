@@ -18,6 +18,9 @@ namespace Practica_3
             InitializeComponent();
         }
 
+        private List<Customer> Customers = new List<Customer>(); //instace of my class Customers
+        private int edit_index = -1;
+
         //function to validate empty txt's
         bool validarTxtVacio(GroupBox ejercicio1) //instace, type GroupBox
         {            
@@ -132,6 +135,24 @@ namespace Practica_3
             }
             return var;
         }
+
+        private void updateGrid()
+        {
+            dgvDatos.DataSource = null;
+            dgvDatos.DataSource = Customers; 
+        }
+
+        private void delete(GroupBox groupBox)
+        {            
+            foreach (Control c in groupBox.Controls) // I check the elements of the groupbox
+            {
+                // if control c is a textbox and it is empty, vacio is gonna be true
+                if (c.GetType() == typeof(TextBox))
+                {
+                    c.Text = "";
+                }
+            }
+        }
         private void label2_Click(object sender, EventArgs e)
         {
 
@@ -161,6 +182,8 @@ namespace Practica_3
             cboSucursal.Items.Add("Sucursal Miguel VCO");
             cboSucursal.Items.Add("Sucursal Apex SV");
             cboSucursal.Items.Add("Sucursal Rodríguez SV");
+            cboSucursal.Items.Add("Sucursal Toronto SV");
+            cboSucursal.Items.Add("Sucursal DUX-306 SV");
             cboSucursal.SelectedIndex = 0; //select option 1 by default
 
         }
@@ -168,17 +191,34 @@ namespace Practica_3
         private void btnRegistrar_Click(object sender, EventArgs e)
         {            
             if (!validarTxtVacio(groupBox1)) //if the function return false, we're gonna make all the proccess
-            {
-                double amount = Convert.ToDouble(txtMonto.Text);
-                string dui = txtDui.Text.ToString();
-                string nit = txtNit.Text.ToString();
-                string type = cboTipoCuenta.SelectedItem.ToString();
-                string numer = txtNumeroCuenta.Text.ToString();
+            {                
+                Customer customer = new Customer(); //instance of Customer's class
+                //set value to attributes
+                customer.Dui = txtDui.Text.ToString();
+                customer.Names = txtNombres.Text.ToString();
+                customer.Lastname = txtApellido.Text.ToString();
+                customer.TypeAccount = cboTipoCuenta.Text.ToString();
+                customer.Nit = txtNit.Text.ToString();
+                customer.AccountNumb = txtNumeroCuenta.Text.ToString();
+                customer.Amount = Convert.ToDouble(txtMonto.Text);
+                customer.Place = cboSucursal.Text.ToString();
 
                 //same logic, if the functions returns false, we're gonna make all the proccess
-                if (!ValidateAmount(amount) && !ValidateDui(dui) && !ValidateNit(nit) && !ValidateAccount(type, numer))
+                if (!ValidateAmount(customer.Amount) && !ValidateDui(customer.Dui) && !ValidateNit(customer.Nit) && !ValidateAccount(customer.TypeAccount, customer.AccountNumb))
                 {                    
                     MessageBox.Show("Cliente registrado satisfactoriamente");
+                   // delete(groupBox1);
+
+                    if(edit_index > -1)
+                    {
+                        Customers[edit_index] = customer;
+                        edit_index = -1;
+                    }
+                    else
+                    {
+                        Customers.Add(customer);
+                    }
+                    updateGrid();
                 }                                                                          
             }
         }
@@ -207,6 +247,45 @@ namespace Practica_3
             {
                 e.Handled = true;
             }
+        }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {           
+        }
+
+        private void btnBorrar_Click(object sender, EventArgs e)
+        {
+            if (edit_index > -1) //verifica si hay un índice seleccionado
+
+            {
+                Customers.RemoveAt(edit_index);
+                edit_index = -1; //resetea variable a -1                
+                updateGrid();
+            }
+            else
+            {
+                MessageBox.Show("Dar doble click sobre elemento para seleccionar y borrar ");
+            }
+        }
+
+        private void dgvDatos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dgvDatos_DoubleClick(object sender, EventArgs e)
+        {
+            DataGridViewRow selected = dgvDatos.SelectedRows[0];
+            int posicion = dgvDatos.Rows.IndexOf(selected); //indicates the current row
+            edit_index = posicion; 
+
+            Customer customer = Customers[posicion]; 
+            //attributes
+            double amount = Convert.ToDouble(txtMonto.Text);
+            string dui = txtDui.Text.ToString();
+            string nit = txtNit.Text.ToString();
+            string type = cboTipoCuenta.SelectedItem.ToString();
+            string numer = txtNumeroCuenta.Text.ToString();
         }
     }
 }
