@@ -50,8 +50,12 @@ namespace Practica_3
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Ejercicio5 ejercicio5 = new Ejercicio5();
-            ejercicio5.Show();
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
