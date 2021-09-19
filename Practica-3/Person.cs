@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practica_3
 {
-    class Person
+    public class Person
     {
         private string nombre;
         private string apellido;

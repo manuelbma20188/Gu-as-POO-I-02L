@@ -23,3 +23,4 @@ C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO
 C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica_3.Ejercicio2.resources
 C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica_3.Ejercicio3.resources
 C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica_3.Ejercicio4.resources
+C:\Users\manu2\Desktop\Docs-&-More\Ingeniería-UDB\CICLO 02 2021\POO I\Guias-POO-I-02L\Practica-3\obj\Debug\Practica_3.FrmRecibe.resources
