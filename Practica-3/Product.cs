@@ -38,5 +38,13 @@ namespace Practica_3
             get { return stock; }
             set { stock = value; }
         }
+
+        //nuevo atributo agregado
+        string ruta;
+        public string Ruta
+        {
+            get { return ruta; }
+            set { ruta = value; }
+        }
     }
 }
