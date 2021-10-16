@@ -1,0 +1,53 @@
+C:\Users\usuario\Desktop\Guia4\Guia4\bin\Debug\Guia4.exe.config
+C:\Users\usuario\Desktop\Guia4\Guia4\bin\Debug\Guia4.exe
+C:\Users\usuario\Desktop\Guia4\Guia4\bin\Debug\Guia4.pdb
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.G4_Ejemplo_01.resources
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.Properties.Resources.resources
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.exe
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.pdb
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.G4_Ejemplo_02.resources
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.FrmRegistro.resources
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.FrmDocente.resources
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.FrmEstudiante.resources
+C:\Users\usuario\Desktop\Guia4\Guia4\obj\Debug\Guia4.Menu.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\bin\Debug\Guia4.exe.config
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\bin\Debug\Guia4.exe
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\bin\Debug\Guia4.pdb
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.csproj.AssemblyReference.cache
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.FrmDocente.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.FrmRegistro.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.G4_Ejemplo_01.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.G4_Ejemplo_02.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.G4_Ejemplo_03.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.Menu.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.Properties.Resources.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.csproj.GenerateResource.cache
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.exe
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.pdb
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.G4_Ejemplo_04.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.FrmEstudiante.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.G4_Ejercicio_04.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.G4_Ejercicio_02.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 8\Guia4\Guia4\obj\Debug\Guia4.G4_Menu_Ejercicios.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.csproj.AssemblyReference.cache
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.FrmDocente.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.FrmEstudiante.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.FrmRegistro.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.Menu.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.Properties.Resources.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.csproj.GenerateResource.cache
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.csproj.CoreCompileInputs.cache
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.exe
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.pdb
+C:\Users\manu2\Desktop\Guia4\Guia4\bin\Debug\Guia4.exe.config
+C:\Users\manu2\Desktop\Guia4\Guia4\bin\Debug\Guia4.exe
+C:\Users\manu2\Desktop\Guia4\Guia4\bin\Debug\Guia4.pdb
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.Ejemplo2.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.Ejercicio4.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.Ejercicio3.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.MenuPrincipal.resources
+C:\Users\manu2\Desktop\Guia4\Guia4\obj\Debug\Guia4.Ejercicio2.resources
