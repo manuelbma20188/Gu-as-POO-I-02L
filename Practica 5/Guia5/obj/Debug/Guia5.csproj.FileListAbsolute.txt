@@ -1,0 +1,29 @@
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\bin\Debug\Guia5.exe.config
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\bin\Debug\Guia5.exe
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\bin\Debug\Guia5.pdb
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.csproj.AssemblyReference.cache
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.G5_Ejemplo_01.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.Properties.Resources.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.csproj.GenerateResource.cache
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.exe
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.pdb
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.G5_Ejemplo_02.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.G5_Ejemplo_03.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.G5_Ejemplo_04.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.Ingreso.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.Notas.resources
+C:\Users\ronal\Escritorio\POO\Laboratorio\Semana 12\Guia5\obj\Debug\Guia5.MenuEjercicios.resources
+C:\Users\manu2\Desktop\Guia5\bin\Debug\Guia5.exe.config
+C:\Users\manu2\Desktop\Guia5\bin\Debug\Guia5.exe
+C:\Users\manu2\Desktop\Guia5\bin\Debug\Guia5.pdb
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.csproj.AssemblyReference.cache
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.Ejercicio1.resources
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.Ejercicio2.resources
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.Form1.resources
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.Properties.Resources.resources
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.csproj.GenerateResource.cache
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.csproj.CoreCompileInputs.cache
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.exe
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.pdb
+C:\Users\manu2\Desktop\Guia5\obj\Debug\Guia5.FrmNotas.resources
